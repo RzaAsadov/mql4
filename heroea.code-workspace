@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+
+		/*"triggerTaskOnSave.tasks": {
+			"sync to dev1": [
+				"*.*",
+			]
+		},*/
+		"files.associations": {
+			"*.mq4": "cpp",
+			"*.mqh": "cpp"
+		}
+
+	}
+}
